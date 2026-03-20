@@ -1,0 +1,11 @@
+Cybercrime Prevention Tips:
+
+- Do not click on suspicious or unknown links
+- Always verify the sender’s email address
+- Never share passwords, OTPs, or personal details
+- Use strong and unique passwords
+- Enable two-factor authentication (2FA)
+- Keep your software and antivirus updated
+- Check website URLs carefully before entering details
+- Avoid using public Wi-Fi for sensitive transactions
+- Stay aware of common cyber threats like phishing

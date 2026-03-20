@@ -1,0 +1,7 @@
+Case Study: Phishing Attack
+
+Phishing is a common type of cybercrime in which attackers try to trick users into revealing sensitive information such as passwords, OTPs, or bank details. 
+
+In a typical phishing attack, a user receives an email or message that appears to be from a trusted source like a bank or a well-known company. The message often contains a link that redirects the user to a fake website that looks real. When the user enters their details, the attacker gains access to their information.
+
+Such attacks can lead to financial loss, identity theft, and data breaches. Many users fall victim because the messages look genuine and create a sense of urgency.
