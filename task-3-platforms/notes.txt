@@ -3,3 +3,9 @@ In this task, I explored various digital platforms such as Google Docs, Canva, a
 These platforms were chosen because they are widely used, easy to access, and improve efficiency in academic work. Google Docs allows real-time editing and easy sharing, Canva helps in creating visually appealing designs without technical skills, and ChatGPT provides quick assistance and idea generation. 
 
 Overall, these tools improved my productivity, creativity, and understanding of modern digital tools.
+
+For Task 3, I explored both coding practice and collaboration tools. For the coding part, I created an account on HackerRank and completed a beginner-level problem titled “Solve Me First.” This task helped me understand the basic structure of programming problems and how to take input and produce output using code. It was my first hands-on experience with a coding platform, and I found it simple yet interesting.
+
+For the collaboration part, I used Google Forms to create a “Digital Literacy Awareness Quiz” consisting of five questions, including multiple-choice and short-answer types. I also linked the form to a response sheet to collect and analyze responses. This activity helped me understand how digital tools can be used for surveys, quizzes, and academic collaboration.
+
+Overall, these platforms will be very useful in my academic journey. HackerRank will help me improve my coding skills, while Google Forms will assist in conducting surveys, collecting data, and collaborating with peers effectively.
